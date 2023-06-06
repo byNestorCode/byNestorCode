@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/nestorvazquezmena/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://leetcode.com/0226594/">
+    <a href="https://www.instagram.com/rocketmx_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://www.twitch.tv/rocketmx_">
