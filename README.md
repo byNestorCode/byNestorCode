@@ -22,6 +22,7 @@
     </a>
 </div> 
 
-<div id="badges" style="margin-top: 20px; padding: 10px;" id="header" align="center">
+</br>
+<div id="badges" style="margin-top: 20px; padding: 10px;" align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=byNestorCode&theme=neon&border_radius=10" alt="GitHub Streak" /></a>
 </div>
